@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ShoaibBME123
+- 👋 Hi, I’m Muahammad
+- I completed my Ph.D. from Italy in Bioinformatics
+- I have an experience in analyzing large scale genetic data such as UK Biobank
 - 👀 I’m interested in Statistical Genetics and Genetic Epidemiology
 - 🌱 I’m currently learning Machine learning Algorithms
 - 💞️ I’m looking to collaborate on Population Genetics projects
